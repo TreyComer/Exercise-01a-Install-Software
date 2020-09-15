@@ -7,6 +7,6 @@ Trey Comer
 5338
 
 ## My github username is:
-BL-MSCH-C220-F20
+TreyComer
 
 ## I have installed the software on my computer as a part of the exercise
